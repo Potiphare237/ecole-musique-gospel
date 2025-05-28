@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Soutenez l’école de musique gospel</title>
+<style>
+  body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f9f9f9; color: #333; }
+  .container { max-width: 600px; margin: 40px auto; background: white; padding: 20px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); }
+  h1 { color: #2c3e50; text-align: center; }
+  p { font-size: 1.1em; line-height: 1.5em; }
+  img { max-width: 100%; border-radius: 8px; margin: 20px 0; }
+  .btn-donate { display: block; width: 100%; background: #0070ba; color: white; text-align: center; padding: 15px; border-radius: 6px; font-size: 1.2em; text-decoration: none; margin-top: 20px; }
+  .btn-donate:hover { background: #005c99; }
+  .contact { margin-top: 30px; font-style: italic; text-align: center; color: #555; }
+</style>
+</head>
+<body>
+  <div class="container">
+    <h1>Soutenez l’école de musique gospel au Cameroun</h1>
+    <p>Depuis plusieurs années, j’ai remarqué que beaucoup d’enfants et d’adultes chrétiens dans notre région n’ont pas accès à une formation musicale gospel de qualité faute de moyens. Mon rêve est d’ouvrir une école de musique pour donner à chacun cette opportunité, mais j’ai besoin de votre aide pour acheter les instruments et le matériel nécessaire.</p>
+    <p>Votre don fera une réelle différence pour l’avenir de ces jeunes talents et pour l’avancement de l’œuvre de Dieu.</p>
+    <img src="https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?auto=format&fit=crop&w=600&q=80" alt="Musique Gospel" />
+    <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=Potiphare237@gmail.com" target="_blank" class="btn-donate">Faire un don via PayPal</a>
+    <div class="contact">
+      <p>Contact : Potiphare237@gmail.com</p>
+    </div>
+  </div>
+</body>
+</html>
